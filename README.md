@@ -4,7 +4,7 @@
 
 
 ## Description
-This is my solution to the Jammming Pratice Project, from CodeCademy. Thier given prompt was to: "...will build a React web application called Jammming. You will use your knowledge of React components, passing state, and requests with the Spotify API to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.".
+This is my solution to the Jammming Portfolio Project, from CodeCademy. Thier given prompt was to: "...will build a React web application called Jammming. You will use your knowledge of React components, passing state, and requests with the Spotify API to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.".
 
 Given Objectives:
   - Build a web app using React
