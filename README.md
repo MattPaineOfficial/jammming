@@ -1,28 +1,30 @@
 # SoundzSculpt
+
+![image](https://github.com/MattPaineOfficial/jammming/assets/133112012/0f9e10bc-55a9-4a16-a7db-d82a178599a8)
+
+
 ## Description
 This is my solution to the Jammming Pratice Project, from CodeCademy. Thier given prompt was to: "...will build a React web application called Jammming. You will use your knowledge of React components, passing state, and requests with the Spotify API to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.".
 
 Given Objectives:
   - Build a web app using React
-  - 
-  - 
-  - 
+  - Version control your application with Git and host the repository on GitHub
+  - Integrate with Spotify API
+  - Deploy your application
 
 ## Features
-- 
+- Users can search for songs by song title/artist name/album.
+- Users can see information about each song like title, artist, and album for songs they queried.
+- Users can export their custom playlist to their personal Spotify account.
 
 ## Languages
-- 
-- 
-- 
+- HTML
+- CSS
+- JavaScript
  
-## Setup
-To run, :
-- 
-- 
-- 
-
-Then 
+## Built Using
+- [React](https://reactjs.org/)
+- [Spotify API](https://developer.spotify.com/documentation/web-api/)
 
 ## Author
 Me - [(Matt Paine)](https://github.com/MattPaineOfficial)
